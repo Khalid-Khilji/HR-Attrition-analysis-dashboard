@@ -34,7 +34,7 @@ That said, not everything in the raw data was useful. Three columns — **Employ
 
 ## The Dashboard
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/hr_dashboard_overview.png)
 
 📄 [View Dashboard PDF](dashboard/hr_dashboard.pdf) (no Power BI needed)
 📊 [Download .pbix file](dashboard/hr_dashboard.pbix) (interactive, needs Power BI Desktop)
@@ -54,7 +54,7 @@ Roughly **1 in 6 employees** left the company. On its own, that number doesn't s
 
 ### Some departments are bleeding people faster than others
 ![Attrition by Department](images/attrition_department.png)
-![Attrition by Department in Percentage](images/attrition_department_%.png)
+![Attrition by Department in Percentage](images/attrition_department-%.png)
 
 **Sales (20.6%)** and **Human Resources (19.0%)** lose employees at nearly double the rate of **Research & Development (13.8%)** — even though R&D has the most people overall in the company. This matters because it rules out the easy explanation ("bigger teams naturally lose more people") — it isn't about headcount, it's about something specific to the day-to-day experience of working in Sales and HR roles that's pushing people out faster than elsewhere in the business.
 
