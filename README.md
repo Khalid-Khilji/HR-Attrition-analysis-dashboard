@@ -54,6 +54,8 @@ Roughly **1 in 6 employees** left the company. On its own, that number doesn't s
 
 ### Some departments are bleeding people faster than others
 ![Attrition by Department](images/attrition_department.png)
+
+
 ![Attrition by Department in Percentage](images/attrition_department-%.png)
 
 **Sales (20.6%)** and **Human Resources (19.0%)** lose employees at nearly double the rate of **Research & Development (13.8%)** — even though R&D has the most people overall in the company. This matters because it rules out the easy explanation ("bigger teams naturally lose more people") — it isn't about headcount, it's about something specific to the day-to-day experience of working in Sales and HR roles that's pushing people out faster than elsewhere in the business.
